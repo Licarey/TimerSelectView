@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cn.com.timerview.timerselectview.TimeSectionScroller xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/lt1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <cn.com.timerview.timerselectview.TimeSectionPicker
+        android:id="@+id/time"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+    <!-- <Button
+         android:id="@+id/button1"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:text="测试"/>-->
+    <!--  <android.support.v7.widget.RecyclerView
+          android:id="@+id/rv"
+          android:layout_width="match_parent"
+          android:layout_height="100dp"
+      />-->
+    <!--    <ListView
+            android:id="@+id/lst"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            />-->
+    <!--<Button
+        android:id="@+id/v14"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="14"/>
+    <Button
+        android:id="@+id/v15"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="15"/>
+    <Button
+        android:id="@+id/v16"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="16"/>
+    <TextView
+        android:id="@+id/test"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="结果测试"/>
+    <ImageView
+        android:id="@+id/ivs"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:src="@drawable/selected_storeone"/>
+    <WebView
+        android:id="@+id/showweb"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone"/>-->
+</cn.com.timerview.timerselectview.TimeSectionScroller>
